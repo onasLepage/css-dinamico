@@ -1,6 +1,6 @@
-# Miscelaneos
+# Dynamic CSS
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.1.3.
+This is a lesson where you can learn how change your Css in real time and other things
 
 ## Development server
 
